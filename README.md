@@ -1,4 +1,4 @@
-# Front-end Mentor REST Countries API with color theme switcher
+# Front-end Mentor E-commerce Product Page
 
 Repositório criado para realizar o desafio de front-end do Front-end Mentor.
 
@@ -79,7 +79,7 @@ O usuários devem ser capazes de:
 
 - [PostCSS](https://postcss.org/docs/ "Documentação do PostCSS")
 
--[ESLint](https://eslint.org/docs/latest/ "Documentação do ESLint")
+- [ESLint](https://eslint.org/docs/latest/ "Documentação do ESLint")
 
 ## Rodando O Projeto
 
