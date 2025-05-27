@@ -10,3 +10,8 @@
   --neutral-white: hsl(0, 0%, 100%);
   --black-75: hsla(0, 0%, 0%, 0.75);
 }
+
+* {
+  box-sizing: border-box;
+  font-family: var(--font-kumbh-sans);
+}
